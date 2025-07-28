@@ -1,0 +1,5 @@
+fix new line bug
+Add a seperate read and write function
+fix reading bug
+Sleep at 12am
+Sleep at 2am
